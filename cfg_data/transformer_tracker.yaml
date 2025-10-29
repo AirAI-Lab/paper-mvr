@@ -1,0 +1,20 @@
+# TransformerTracker parameters
+tracker_type: transformertracker  # tracker type
+track_thresh: 0.5         # detection confidence threshold
+track_high_thresh: 0.5    # high threshold for detection
+track_low_thresh: 0.1     # low threshold for detection
+new_track_thresh: 0.6     # threshold for new track initiation
+match_thresh: 0.8         # matching threshold for tracks
+track_buffer: 3          # buffer size for track history
+min_box_area: 10          # minimum bounding box area
+frame_rate: 1            # frame rate
+
+# Transformer-specific parameters
+iou_weight: 0.8           # weight for IoU distance in matching
+appearance_weight: 0.2    # weight for appearance distance in matching
+fuse_score: True          # whether to fuse detection scores
+
+# Feature extraction parameters
+feature_dim: 128          # dimension of appearance features
+use_appearance: True      # whether to use appearance features
+feature_history_size: 10  # number of historical features to keep
