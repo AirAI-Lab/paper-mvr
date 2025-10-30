@@ -9,7 +9,7 @@ Hardware environment for this technical experiment:
 
 
 <video width="640" height="360" controls>
-  <source src="[https://github.com/AirAI-Lab/paper-mvr/releases/download/mvr/GSBF_video_track.mp4](https://www.bilibili.com/video/BV1guy4BME8a/?vd_source=3771087a46941dc1f7d6769086fadc50)" type="video/mp4">
+  <source src="https://www.bilibili.com/video/BV1guy4BME8a/?vd_source=3771087a46941dc1f7d6769086fadc50" type="video/mp4">
   你的浏览器不支持 video 标签，请升级浏览器。
 </video>
 
