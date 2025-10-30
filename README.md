@@ -9,8 +9,8 @@ Hardware environment for this technical experiment:
 
 
 ## 🎬 Demo Video
+![替代文本](./paper_graph/1.gif)
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/70cfd5df5fdc5a63c3d07aefcf308bc53f3b3bf2.jpg@640w_360h_1c.webp)](https://www.bilibili.com/video/BV1guy4BME8a?t=0.7)
 
 
 ![替代文本](./paper_graph/9.svg)
