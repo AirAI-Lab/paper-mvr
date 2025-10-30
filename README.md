@@ -8,16 +8,10 @@ Hardware environment for this technical experiment:
 >The required environment is Python 3.8 (all packages in the code are installed based on Python 3.8).
 
 
-<iframe 
-  src="//player.bilibili.com/player.html?bvid=BV1guy4BME8a&page=1&t=0.7" 
-  width="640" 
-  height="360" 
-  scrolling="no" 
-  border="0" 
-  frameborder="no" 
-  framespacing="0" 
-  allowfullscreen="true">
-</iframe>
+## 🎬 Demo Video
+
+[![Watch the video](https://i0.hdslb.com/bfs/archive/70cfd5df5fdc5a63c3d07aefcf308bc53f3b3bf2.jpg@640w_360h_1c.webp)](https://www.bilibili.com/video/BV1guy4BME8a?t=0.7)
+
 
 ![替代文本](./paper_graph/9.svg)
 
