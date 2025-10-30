@@ -8,7 +8,6 @@ Hardware environment for this technical experiment:
 >The required environment is Python 3.8 (all packages in the code are installed based on Python 3.8).
 
 
-## 🎬 Demo Video
 ![替代文本](./paper_graph/1.gif)
 
 
