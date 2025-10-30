@@ -206,39 +206,23 @@ Hardware environment for this technical experiment:
 
 ***Bad Pose (bad Tracking!!!):***
 
-<video width="640" height="360" controls>
-  <source src="./90°20m_track_video.mp4" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
+![替代文本](./paper_graph/2.gif)
 
 ![替代文本](./paper_graph/004.svg)
 
 ***PoseSet1 (good Tracking):***
 
-<video width="640" height="360" controls>
-  <source src="./right_45°20m_track_video.mp4" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
+![替代文本](./paper_graph/3.gif)
 
 ***PoseSet2:***
 
-<video width="640" height="360" controls>
-  <source src="./right_45°20m_track_video.mp4" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
+![替代文本](./paper_graph/4.gif)
 
 ***PoseSet3:***
 
-<video width="640" height="360" controls>
-  <source src="./left_45°15m_track_video.mp4" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
-
+![替代文本](./paper_graph/5.gif)
 ***PoseSet4:***
 
-<video width="640" height="360" controls>
-  <source src="./left_45°10m_track_video.mp4" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
+![替代文本](./paper_graph/6.gif)
 
 
