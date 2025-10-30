@@ -6,6 +6,7 @@ Hardware environment for this technical experiment:
 >Intel (R) Xeon (R) Silver 4215R CPU @ 3.20 GHz. We tested the inference speed at FP32 precision on our hardware. Specifically, our complete hardware-related metrics are: NVIDIA GeForce RTX 3090 model, CUDA cores of 8.6, total video memory of 24GB, and matrix multiplication performance of 21.31~22.04 TFLOPS.
 
 >The required environment is Python 3.8 (all packages in the code are installed based on Python 3.8).
+>
 >our tracking data: https://pan.baidu.com/s/10X-zheumV1OMetYj8IV40Q?pwd=8888 
 
 
