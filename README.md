@@ -8,10 +8,16 @@ Hardware environment for this technical experiment:
 >The required environment is Python 3.8 (all packages in the code are installed based on Python 3.8).
 
 
-<video width="640" height="360" controls>
-  <source src="https://www.bilibili.com/video/BV1guy4BME8a?t=1.0" type="video/mp4">
-  你的浏览器不支持 video 标签，请升级浏览器。
-</video>
+<iframe 
+  src="//player.bilibili.com/player.html?bvid=BV1guy4BME8a&page=1&t=0.7" 
+  width="640" 
+  height="360" 
+  scrolling="no" 
+  border="0" 
+  frameborder="no" 
+  framespacing="0" 
+  allowfullscreen="true">
+</iframe>
 
 ![替代文本](./paper_graph/9.svg)
 
